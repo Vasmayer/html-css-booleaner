@@ -53,3 +53,27 @@ span
     background-color: #ffff00;
 }
 
+.th1 .th2{
+    width: 20%;  
+}
+.th3
+{
+    width: 60%;
+}
+.tr-intestation
+{
+    background-color:#20a9e5;
+    color: white;
+    
+   
+}
+.tr-bg
+{
+    background-color:#b1e5f2;
+}
+
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+
