@@ -42,13 +42,14 @@ h2>span
 
 figure>img{
     width: 47%;
+    height: 50%;
 }
 
 figcaption
 {
     font-size: 12px;
 }
-div>span
+.margin>span
 {
     background-color: #ffff00;
 }
@@ -81,16 +82,13 @@ table{
 {
     background-image: url(../img/monitor.jpg);
     width: 312px;
-    height:208px;
-    
+    height:208px; 
 }
 .interester-2
 {
     background-image: url(../img/graph.jpg);
     width: 311px;
     height:207px;
-    
-  
 }
 .interester
 {
@@ -98,5 +96,9 @@ table{
     color: white;
     font-weight: bold;
     margin-top: 15px;
+}
+.interester > span
+{
+   margin-left: 20px;
 }
 
