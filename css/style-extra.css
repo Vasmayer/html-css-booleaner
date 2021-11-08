@@ -1,5 +1,6 @@
 .strict
 {
     width: 70%;
-    margin:auto;
+    margin-left: auto;
+    margin-right: auto;
 }
