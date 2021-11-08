@@ -5,13 +5,14 @@
     box-sizing: border-box;
 }
 
-.container{
-    
-}
-
 .margin 
 {
     margin-left: 20px;
+    margin-top: 20px;
+}
+.margin-ul 
+{
+    margin-left: 40px;
 }
 
 #logo
@@ -46,5 +47,9 @@ figure>img{
 figcaption
 {
     font-size: 12px;
+}
+span
+{
+    background-color: #ffff00;
 }
 
