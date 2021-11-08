@@ -40,10 +40,7 @@ h2>span
     color: rgb(32,169,229);
 }
 
-figure>img{
-    width: 47%;
-    height: 50%;
-}
+
 
 figcaption
 {
@@ -96,6 +93,7 @@ table{
     color: white;
     font-weight: bold;
     margin-top: 15px;
+    padding:15px;
 }
 .interester > span
 {
